@@ -1,0 +1,14 @@
+.container {
+    background-image: url("../images/StarNightPhotobooth.jpeg");
+    height: 700px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.btnclick{
+    background-color: blue;border-style: solid; border-color: rgb(255, 255, 255);color:white;padding: 15px;margin: 10px; font-size: 3vw; color: white;
+}
+.btnclick:hover{
+    background-color: black;
+}
