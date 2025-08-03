@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 .container {
-    background-image: url("../images/StarNightPhotobooth.jpeg");
+    background-image: url("../images/StarNightPhotobooth.png");
     height: 700px;
     max-width: 100%;
     background-repeat: no-repeat;
