@@ -47,7 +47,7 @@ body {
  
   .scatter-container {
     position: relative;
-    width: 100%;
+    width: 100vw;
     height: 700px;
     background-image: url("../images/wood.png");
     background-repeat: no-repeat;
