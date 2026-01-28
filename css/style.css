@@ -45,3 +45,22 @@ body {
     
   }
  
+  .scatter-container {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    background-image: url("../images/wood.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 8px solid white;
+    overflow: hidden;
+    margin: auto;
+  }
+
+  .scatter-image {
+    position: absolute;
+    width: 120px;
+    height: auto;
+    transform-origin: center center;
+    pointer-events: none;
+  }
